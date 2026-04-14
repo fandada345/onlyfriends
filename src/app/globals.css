@@ -82,8 +82,8 @@ select {
 
 .share-frame {
   background:
-    radial-gradient(circle at top left, rgba(255,255,255,0.12), transparent 28%),
-    linear-gradient(135deg, rgba(249,115,22,0.94), rgba(194,65,12,0.94) 42%, rgba(2,6,23,0.98));
+    radial-gradient(circle at top left, rgba(255,255,255,0.1), transparent 30%),
+    linear-gradient(135deg, rgba(249,115,22,0.86), rgba(194,65,12,0.88) 42%, rgba(6,12,24,0.94));
 }
 
 .screen-card {
