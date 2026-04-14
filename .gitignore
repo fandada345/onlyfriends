@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.vercel
+.DS_Store
+
+# Local research material, not needed for deployment
+books
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
